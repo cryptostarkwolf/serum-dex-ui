@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/serum/static/css/main.57364c8a.chunk.css",
-    "main.js": "/serum/static/js/main.7ff86c41.chunk.js",
-    "main.js.map": "/serum/static/js/main.7ff86c41.chunk.js.map",
-    "runtime-main.js": "/serum/static/js/runtime-main.a036ab36.js",
-    "runtime-main.js.map": "/serum/static/js/runtime-main.a036ab36.js.map",
-    "static/css/2.872a6bf7.chunk.css": "/serum/static/css/2.872a6bf7.chunk.css",
-    "static/js/2.ca08babb.chunk.js": "/serum/static/js/2.ca08babb.chunk.js",
-    "static/js/2.ca08babb.chunk.js.map": "/serum/static/js/2.ca08babb.chunk.js.map",
-    "index.html": "/serum/index.html",
-    "precache-manifest.9b5cccea49b126a4a8165322ecd24b7c.js": "/serum/precache-manifest.9b5cccea49b126a4a8165322ecd24b7c.js",
-    "service-worker.js": "/serum/service-worker.js",
-    "static/css/2.872a6bf7.chunk.css.map": "/serum/static/css/2.872a6bf7.chunk.css.map",
-    "static/css/main.57364c8a.chunk.css.map": "/serum/static/css/main.57364c8a.chunk.css.map",
-    "static/js/2.ca08babb.chunk.js.LICENSE.txt": "/serum/static/js/2.ca08babb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/serum/static/media/logo.49174c73.svg"
+    "main.css": "/serum-dex-ui/static/css/main.57364c8a.chunk.css",
+    "main.js": "/serum-dex-ui/static/js/main.3d4aa598.chunk.js",
+    "main.js.map": "/serum-dex-ui/static/js/main.3d4aa598.chunk.js.map",
+    "runtime-main.js": "/serum-dex-ui/static/js/runtime-main.5c7e3df8.js",
+    "runtime-main.js.map": "/serum-dex-ui/static/js/runtime-main.5c7e3df8.js.map",
+    "static/css/2.872a6bf7.chunk.css": "/serum-dex-ui/static/css/2.872a6bf7.chunk.css",
+    "static/js/2.14e1a577.chunk.js": "/serum-dex-ui/static/js/2.14e1a577.chunk.js",
+    "static/js/2.14e1a577.chunk.js.map": "/serum-dex-ui/static/js/2.14e1a577.chunk.js.map",
+    "index.html": "/serum-dex-ui/index.html",
+    "precache-manifest.ce9c24b040787865186861c6af134250.js": "/serum-dex-ui/precache-manifest.ce9c24b040787865186861c6af134250.js",
+    "service-worker.js": "/serum-dex-ui/service-worker.js",
+    "static/css/2.872a6bf7.chunk.css.map": "/serum-dex-ui/static/css/2.872a6bf7.chunk.css.map",
+    "static/css/main.57364c8a.chunk.css.map": "/serum-dex-ui/static/css/main.57364c8a.chunk.css.map",
+    "static/js/2.14e1a577.chunk.js.LICENSE.txt": "/serum-dex-ui/static/js/2.14e1a577.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/serum-dex-ui/static/media/logo.49174c73.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a036ab36.js",
+    "static/js/runtime-main.5c7e3df8.js",
     "static/css/2.872a6bf7.chunk.css",
-    "static/js/2.ca08babb.chunk.js",
+    "static/js/2.14e1a577.chunk.js",
     "static/css/main.57364c8a.chunk.css",
-    "static/js/main.7ff86c41.chunk.js"
+    "static/js/main.3d4aa598.chunk.js"
   ]
 }
