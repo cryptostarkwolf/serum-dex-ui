@@ -45,7 +45,7 @@ const EXTERNAL_LINKS = {
   '/developer-resources': 'https://serum-academy.com/en/developer-resources/',
   '/explorer': 'https://explorer.solana.com',
   '/srm-faq': 'https://projectserum.com/srm-faq',
-  '/swap': 'https://cryptostarkwolf.github.io/oyster-swap/'
+  '/swap': 'https://cryptostarkwolf.com/serum-swap-ui/'
 };
 
 export default function TopBar() {
